@@ -16,11 +16,12 @@ function Footer() {
         <div className="footer">
             <div className="footer-left">
                 <img 
-                className="albumLogo"
-                src="" alt="" />
+                className="footer-logo"
+                src="https://images.squarespace-cdn.com/content/v1/580a9280579fb3cd86e8873f/1495220952714-XYGVCDWT69OXJH4LRQAV/IRATION_FLY-WITH-ME_GENERIC-BG.jpg?format=2500w" 
+                alt="" />
                 <div className="footer-songInfo">
-                    <h4>hi</h4>
-                    <p>song</p>
+                    <h4>Iration</h4>
+                    <p>Fly With Me</p>
                 </div>
 
             </div>

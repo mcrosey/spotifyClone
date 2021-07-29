@@ -17,12 +17,13 @@
   width: 300px;
 }
 
-.footer-albumLogo {
+.footer-logo {
   height: 60px;
   width: 60px;
   margin-right: 20px;
   object-fit: contain;
 }
+
 .footer-icon:hover,
 .footer-green:hover {
   transition: transform 0.2s ease-in-out;
